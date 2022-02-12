@@ -1,2 +1,2 @@
-# codeswitchyazilim.github.io
+# codeswitchyazilim.com
 Codeswitch Yazılım web sitesi.
