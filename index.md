@@ -2,6 +2,16 @@
 layout: default
 ---
 
+# Hakkımızda
+Codeswitch ekibi olarak dünyayı daha erişilebilir ve daha adil bir yer yapmayı hedefliyoruz! Bu hedef doğrultusunda özellikle engelli bireylerin hayatını kolaylaştıracak erişilebilirlik teknolojileri, NLP ve makine öğrenmesi gibi teknolojilerden yararlanan yazılım ürünleri ve eğitimde fırsat eşitliği sağlayan oyunlar üretiyoruz.
+
+Akademiyle sanayinin iş birliğinin insanlığın ve teknolojinin daha ileriye gidebilmesi için mutlak bir gereklilik olduğuna inanıyoruz. Bu sebeple ekibimizde akademisyenlere yer veriyor, çalışmalarımızı bilimsel temellere dayandırmaya özen gösteriyoruz. Dilbilim, doğal dil işleme, dil edinimi, erişilebilirlik teknolojileri gibi alanlardaki gelişmeleri yakından takip ediyor, kongre ve sempozyumlara katılıyor ve akademik literatüre yayınlarımız ile katkıda bulunuyoruz.
+
+Şu sıralar TÜBİTAK’tan 1512 desteği alarak başladığımız Minik Eller projemiz üzerinde çalışıyoruz. Minik Eller ile sağır çocukların anadil edinimine katkıda bulunmayı hedefliyoruz. Projemiz hakkında detaylı bilgi almak isterseniz, sitemizin ilgili sekmesini ziyaret edebilirsiniz.
+
+Ekibimizi yakından tanımak ve üzerinde çalıştığımız güncel projelerimizi öğrenmek için sosyal medya hesaplarımızı takip edin!
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
