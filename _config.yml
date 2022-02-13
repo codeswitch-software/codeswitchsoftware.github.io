@@ -6,3 +6,6 @@ theme: jekyll-theme-minimal
 
 gems:
   - jekyll-font-awesome-sass
+  
+font-awesome:
+  assets: true
