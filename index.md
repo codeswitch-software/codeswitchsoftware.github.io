@@ -11,123 +11,28 @@ Akademiyle sanayinin iş birliğinin insanlığın ve teknolojinin daha ileriye 
 
 Ekibimizi yakından tanımak ve üzerinde çalıştığımız güncel projelerimizi öğrenmek için sosyal medya hesaplarımızı takip edin!
 
+# Ekibimiz
+## Kadir Gökgöz
+Boğaziçi Üniversitesi Dilbilim Bölümü’nde öğretim üyesi olarak araştırmalarına devam eden Kadir Gökgöz, dil edinimi ve işaret dili alanlarında çalışmakta. Codeswitch’te proje koordinatörlüğünün yanı sıra içerik üretimi ve kalite kontrol süreçlerinden sorumlu.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Büşra Marşan
+Boğaziçi Üniversitesi Dilbilim Bölümü’nde yüksek lisansına devam eden Büşra Marşan, Codeswitch’te iş geliştirme, pazarlama ve yazılım süreçlerinden sorumlu. 
 
-[Link to another page](./another-page.html).
+## Neslihan Kara
+Boğaziçi Üniversitesi Dilbilim Bölümü ve Coyotiv School of Software Engineering mezunu Neslihan Kara, Codeswitch’te yazılım geliştirme süreçlerinden sorumlu.
 
-There should be whitespace between paragraphs.
+## Demet Terzi
+Farklı kurumlarda işaret dili eğitmenliği yapan Demet Terzi, Codeswitch’te işaret dili modelliği, içerik üretimi ve topluluk iletişiminden sorumlu. Minik Eller uygulamamızın eğitim materyallerinde Demet’i görebilirsiniz! 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+## Elvan Tamyürek Özparlak
+Boğaziçi Üniversitesi Dilbilim Bölümü’nde yapılan araştırmalarda önemli görevler üstlenen ve yine aynı bölümde işaret dili eğitmenliği yapan Elvan Tamyürek Özparlak, Codeswitch’te işaret dili eğitim materyallerinin hazırlanmasından ve kalite kontrolünden sorumlu.
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+# Minik Eller
+Minik Eller, okul öncesi yaş grubuna yönelik bir işaret dili öğretme uygulamasıdır. Çocukların bilişsel ve dilsel gelişimi göz önünde bulundurularak hazırlanan Minik Eller uygulaması, özellikle anadil edinimini desteklemeyi hedeflemektedir.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+Minik Eller uygulamasını yakından tanımak istiyorsanız App Store veya Google Play Store üzerinden indirebilirsiniz.
 
-```
-The final element.
-```
+Uygulama hakkında detaylı bilgi almak için [Sıkça Sorulan Sorular](./faq.md) sayfamızı ziyaret edebilirsiniz.
+
