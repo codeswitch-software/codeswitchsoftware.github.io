@@ -1,0 +1,29 @@
+email:
+  id: 'info@codeswitchyazilim.com'
+  href: 'mailto:'
+  title: 'E-mail'
+  fa-icon: 'fa-envelope-square'
+
+facebook:
+  id: 'your-facebook-username'
+  href: 'https://www.facebook.com/'
+  title: 'Facebook'
+  fa-icon: 'fa-facebook-square'
+
+twitter:
+  id: 'teamcodeswitch'
+  href: 'https://www.twitter.com/teamcodeswitch'
+  title: 'Twitter'
+  fa-icon: 'fa-twitter-square'
+  
+instagram:
+  id: 'teamcodeswitch'
+  href: 'https://www.instagram.com/teamcodeswitch'
+  title: 'Instagram'
+  fa-icon: 'fa-instagram-square'
+
+github:
+  id: 'codeswitch-software'
+  href: 'https://github.com/codeswitch-software'
+  title: 'GitHub'
+  fa-icon: 'fa-github-square'
