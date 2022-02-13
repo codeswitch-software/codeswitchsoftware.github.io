@@ -15,6 +15,7 @@ Ekibimizi yakından tanımak ve üzerinde çalıştığımız güncel projelerim
 <a href="https://twitter.com/teamcodeswitch" target="_blank" rel="noopener noreferrer">Twitter</a> <br>
 <a href="https://www.linkedin.com/company/codeswitch-software" target="_blank" rel="noopener noreferrer">LinkedIn</a> <br>
 
+<br><br>
 # Ekibimiz
 ### Kadir Gökgöz
 Boğaziçi Üniversitesi Dilbilim Bölümü’nde öğretim üyesi olarak araştırmalarına devam eden Kadir Gökgöz, dil edinimi ve işaret dili alanlarında çalışmakta. Codeswitch’te proje koordinatörlüğünün yanı sıra içerik üretimi ve kalite kontrol süreçlerinden sorumlu.
@@ -32,7 +33,7 @@ Farklı kurumlarda işaret dili eğitmenliği yapan Demet Terzi, Codeswitch’te
 Boğaziçi Üniversitesi Dilbilim Bölümü’nde yapılan araştırmalarda önemli görevler üstlenen ve yine aynı bölümde işaret dili eğitmenliği yapan Elvan Tamyürek Özparlak, Codeswitch’te işaret dili eğitim materyallerinin hazırlanmasından ve kalite kontrolünden sorumlu.
 
 
-
+<br><br>
 # Minik Eller
 Minik Eller, okul öncesi yaş grubuna yönelik bir işaret dili öğretme uygulamasıdır. Çocukların bilişsel ve dilsel gelişimi göz önünde bulundurularak hazırlanan Minik Eller uygulaması, özellikle anadil edinimini desteklemeyi hedeflemektedir.
 
