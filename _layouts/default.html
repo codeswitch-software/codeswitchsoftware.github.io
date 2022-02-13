@@ -17,6 +17,10 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | Codeswitch Yazılım }}</a></h1>
         
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
+        
       </header>
       <section>
 
