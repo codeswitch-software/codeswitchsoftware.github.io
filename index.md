@@ -12,19 +12,19 @@ Akademiyle sanayinin iş birliğinin insanlığın ve teknolojinin daha ileriye 
 Ekibimizi yakından tanımak ve üzerinde çalıştığımız güncel projelerimizi öğrenmek için sosyal medya hesaplarımızı takip edin!
 
 # Ekibimiz
-## Kadir Gökgöz
+### Kadir Gökgöz
 Boğaziçi Üniversitesi Dilbilim Bölümü’nde öğretim üyesi olarak araştırmalarına devam eden Kadir Gökgöz, dil edinimi ve işaret dili alanlarında çalışmakta. Codeswitch’te proje koordinatörlüğünün yanı sıra içerik üretimi ve kalite kontrol süreçlerinden sorumlu.
 
-## Büşra Marşan
+### Büşra Marşan
 Boğaziçi Üniversitesi Dilbilim Bölümü’nde yüksek lisansına devam eden Büşra Marşan, Codeswitch’te iş geliştirme, pazarlama ve yazılım süreçlerinden sorumlu. 
 
-## Neslihan Kara
+### Neslihan Kara
 Boğaziçi Üniversitesi Dilbilim Bölümü ve Coyotiv School of Software Engineering mezunu Neslihan Kara, Codeswitch’te yazılım geliştirme süreçlerinden sorumlu.
 
-## Demet Terzi
+### Demet Terzi
 Farklı kurumlarda işaret dili eğitmenliği yapan Demet Terzi, Codeswitch’te işaret dili modelliği, içerik üretimi ve topluluk iletişiminden sorumlu. Minik Eller uygulamamızın eğitim materyallerinde Demet’i görebilirsiniz! 
 
-## Elvan Tamyürek Özparlak
+### Elvan Tamyürek Özparlak
 Boğaziçi Üniversitesi Dilbilim Bölümü’nde yapılan araştırmalarda önemli görevler üstlenen ve yine aynı bölümde işaret dili eğitmenliği yapan Elvan Tamyürek Özparlak, Codeswitch’te işaret dili eğitim materyallerinin hazırlanmasından ve kalite kontrolünden sorumlu.
 
 
