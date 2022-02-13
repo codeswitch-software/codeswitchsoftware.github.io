@@ -10,6 +10,10 @@ Akademiyle sanayinin iş birliğinin insanlığın ve teknolojinin daha ileriye 
 Şu sıralar TÜBİTAK’tan 1512 desteği alarak başladığımız Minik Eller projemiz üzerinde çalışıyoruz. Minik Eller ile sağır çocukların anadil edinimine katkıda bulunmayı hedefliyoruz. Projemiz hakkında detaylı bilgi almak isterseniz, sitemizin ilgili sekmesini ziyaret edebilirsiniz.
 
 Ekibimizi yakından tanımak ve üzerinde çalıştığımız güncel projelerimizi öğrenmek için sosyal medya hesaplarımızı takip edin!
+[Instagram] (https://www.instagram.com/teamcodeswitch)
+[Facebook] (https://www.facebook.com/Codeswitch-Software-100650571928785)
+[Twitter] (https://twitter.com/teamcodeswitch)
+[LinkedIn] (https://www.linkedin.com/company/codeswitch-software)
 
 # Ekibimiz
 ### Kadir Gökgöz
